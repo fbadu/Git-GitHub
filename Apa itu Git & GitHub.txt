@@ -1,0 +1,31 @@
+Apa itu Git dan GitHub?
+ - Git dan GitHub Merupakan dua hal yang berbeda, yang dimana bisa bekerja dengan git tanpa github ataupun sebaliknya
+   Bisa juga di komputer kalian tidak terinstall git, bisa benar-benar terpisah tapi bisa juga di gabungkan.
+ - Git adalah vcs yang memungkinkan kita untuk dapat mengelola file di dalam folder/repo/repository
+ - Git akan menyimpan setiap perangkaian perubahan/history dengan menggunkan sesuatu yang dinamakan commit. 
+ - Hash adalah penanda setiap melakukan commit
+
+Macam-macam Version Control System (VCS) :
+-	Git
+-	Subversion
+-	Mercurial
+-	CVS (Concurrent Version System)
+
+Git/GitHub :
+Merupakan salah satu yang dinamakan Version Control System (VCS) Disebut juga Revision Control System atau Source Code Management adalah System yang mengelola perubahan dari sebuah dokumen, program, computer, website dan kumpulan-kumpulan informasi lainnya.
+/System yang mengelola perubahan dari sebuah dokumen yang di kelola
+
+  -> 2 Hal Kenapa ada Git :
+     - Mudah untuk melacak history setiap perubahan
+     - Mudah Untuk Berkolaborasi
+     
+   -> Version Control System :	
+     - Sebuah system yang menyimpan rekaman / snapshot perubahan source code
+     - Memungkinkan bekerja berkolaborasi dengan lebih baik
+     - Mengetahui siapa yang melakukan dan kapan perubahan itu terjadi   
+     - Memungkinkan kita untuk kembali ke keadaan perubahan (checkout)
+
+   -> Perintah-Perintah Dasar pada Git :
+     - Commit : untuk menyimpan setiap perubahan
+     - Branch : membuat suatu cabang dari repository
+     - Marge  : Menggabungkan dua buah Branch
